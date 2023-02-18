@@ -2,37 +2,21 @@
   {
     "Nome": "Toccaferro",
     "Indirizzo": "Via Firenze, 285",
-    "Orario": " lunedì	10–00:30
-                martedì	10–00:30
-                mercoledì	10–00:30
-                giovedì	10–00:30
-                venerdì	10–00:30
-                sabato	10–00:30
-                domenica	10–00:30",
+    "Orario": "10–00:30",
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 914 0124"
       },
   {  
     "Nome": "Toccaferro",
     "Indirizzo": "Via Falcone e Borsellino, 8",
-     "Orario": " lunedì	10–00:30
-                martedì	10–00:30
-                mercoledì	10–00:30
-                giovedì	10–00:30
-                venerdì	10–00:30
-                sabato	10–00:30
-                domenica	10–00:30",
+     "Orario": "10–00:30",
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 450 3565"
-      },
+   },
 {  
     "Nome": "Fattoria Galasso",
-    "Indirizzo": "Viale Giovanni Bovio, 378",
+    "Indirizzo": "Viale Giovanni Bovio, 37",
      "Orario": "sabato	12:30–15, 19:30–23:30",
-     "Info": "Consumazione sul posto · Consegna a domicilio",
+    "Info": "Consumazione sul posto · Consegna a domicilio",
     "Telefono":" 333 729 0263"
-
-    
-  }]
-   
-  
+}]
