@@ -1,19 +1,4 @@
 [
-  {
-    "Nome": "Fattoria Toccaferro",
-    "Indirizzo": "Via Firenze, 286",
-    "Orario": "lunedì	 10–00:30,
-               martedì	 10–00:30,
-               mercoledì 10–00:30,
-               giovedì	 10–00:30,
-               venerdì	 10–00:30,
-               sabato	   10–00:30,
-               domenica	 10–00:30",
-    "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
-    "Telefono":" 085 914 0124",
-    "Mappa":"geo:42.47078152815664, 14.207977253483966"
- 
-      },
   {  
     "Nome": "Fattoria Toccaferro",
     "Indirizzo": "Via Falcone e Borsellino, 8",
@@ -27,35 +12,8 @@
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 450 3565",
     "Mappa":"geo:42.45085930994688, 14.224853868826665"
+"Foto":"https://www.google.it/url?sa=i&url=https%3A%2F%2Frestaurantguru.it%2FFattoria-Toccaferro-Pescara-2&psig=AOvVaw2SPMsYTd9itZTaf1A4E9B2&ust=1678015468738000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCND399eawv0CFQAAAAAdAAAAABA5"
     
-   },
-{  
-    "Nome": "Fattoria Galasso",
-    "Indirizzo": "Viale Giovanni Bovio, 37",
-   "Orario": " lunedì	 12:30–15, 19:30–23:30,
-               martedì	 12–17,      chiuso,
-               mercoledì 12:30–15, 19:30–23:30,
-               giovedì	 12:30–15, 19:30–23:30,
-               venerdì	 12:30–15, 19:30–23:30,
-               sabato    12:30–15, 19:30–23:30,
-               domenica  12:30–15,   chiuso";
-    "Info": "Consumazione sul posto · Consegna a domicilio",
-    "Telefono":" 333 729 0263",
-    "Mappa":"geo:42.47925850674258, 14.195368239991762"
- 
-  },
-{  
-    "Nome": "Somari",
-    "Indirizzo": "Corso Vittorio Emanuele II, 247",
-    "Orario": "lunedì	 19:15–23,
-               martedì	 19:15–23,
-               mercoledì 19:15–23,
-               giovedì	 19:15–23,
-               venerdì	 19:15–23,
-               sabato	   19:15–23:30,
-               domenica  19:15–23",
-    "Info": "Consumazione sul posto · Da asporto · Consegna a domicilio",
-    "Telefono":" 085 863 2656",
-   "Mappa":"geo:42.46857533559889, 14.207668626498927"
+   
   
 }]
