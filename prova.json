@@ -72,13 +72,13 @@
 {  
  "Nome": "Pesciolillo",
     "Indirizzo": "Corso Vittorio Emanuele II, 257",
-   "Orario": " lunedì_____11–00,
-               martedì____11–00,
-               mercoledì__11–00,
-               giovedì____11–00,
-               venerdì____11-00,
-               sabato_____11-00,
-               domenica___11-00";
+    "Orario": "lunedì     11–00,
+               martedì    11–00,
+               mercoledì  11–00,
+               giovedì     11–00,
+               venerdì     11-00,
+               sabato      11-00,
+               domenica   11-00";
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 421 1422",
     "Mappa":"geo:42.46908116175979, 14.207054311158316"
