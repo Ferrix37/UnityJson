@@ -70,15 +70,15 @@
     "Mappa":"geo:42.47201859169079, 14.207481055532165"
   },
 {  
-    "Nome": "Pesciolillo",
+ "Nome": "Pesciolillo",
     "Indirizzo": "Corso Vittorio Emanuele II, 257",
-   "Orario": " lunedì	 11–00,
-               martedì	 11–00,
-               mercoledì 11–00,
-               giovedì	 11–00,
-               venerdì	 11-00,
-               sabato    11-00,
-               domenica  11-00";
+   "Orario": " lunedì_____11–00,
+               martedì____11–00,
+               mercoledì__11–00,
+               giovedì____11–00,
+               venerdì____11-00,
+               sabato_____11-00,
+               domenica___11-00";
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 421 1422",
     "Mappa":"geo:42.46908116175979, 14.207054311158316"
@@ -86,17 +86,17 @@
 {  
     "Nome": "Rostelle & Co. Pescara Centro",
     "Indirizzo": "Viale Leopoldo Muzii",
-   "Orario": " lunedì	 19:30–00,
-               martedì	 19:30–00,
-               mercoledì chiuso,
-               giovedì	 19:30–00,
-               venerdì	 19:30–00,
-               sabato    19:30–00,
-               domenica  19:30–00";
+   "Orario": " lunedì_____19:30–00,
+               martedì____19:30–00,
+               mercoledì__chiuso,
+               giovedì____19:30–00,
+               venerdì____19:30–00,
+               sabato_____19:30–00,
+               domenica___19:30–00";
     "Info": "Consumazione sul posto · Ritiro all'esterno",
     "Telefono":" 320 235 5131",
     "Mappa":"geo:42.4762989579522, 14.20492941300557"
-  },
+  }, 
 {  
     "Nome": "Somari",
     "Indirizzo": "Corso Vittorio Emanuele II, 247",
