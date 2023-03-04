@@ -11,7 +11,7 @@
                domenica   12:45-14",
     "Info": "Consumazione sul posto · Ritiro all'esterno · Non effettua consegne a domicilio",
     "Telefono":" 085 421 2280",
-    "Mappa":"geo:42.47043472631123, 14.217111765095732?z=23 "
+    "Mappa":"geo:42.47043472631123, 14.217111765095732?z=15"
  },
   {
     "Nome": "Fattoria Toccaferro",
@@ -21,25 +21,25 @@
                mercoledì  10–00:30,
                giovedì       10–00:30,
                venerdì       10–00:30,
-               sabato         10–00:30,
+               sabato        10–00:30,
                domenica  10–00:30",
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 914 0124",
-    "Mappa":"geo:42.47078152815664, 14.207977253483966?z=23 "
+    "Mappa":"geo:42.47078152815664, 14.207977253483966?z=15"
  },
   {  
     "Nome": "Fattoria Toccaferro",
     "Indirizzo": "Via Falcone e Borsellino, 8",
-    "Orario": "lunedì         10–00:30,
+    "Orario": "lunedì          10–00:30,
                martedì       10–00:30,
                mercoledì   10–00:30,
                giovedì        10–00:30,
-               venerdì       10–00:30,
-               sabato	       10–00:30,
-               domenica	 10–00:30",
+               venerdì        10–00:30,
+               sabato	        10–00:30,
+               domenica	  10–00:30",
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 450 3565",
-    "Mappa":"geo:42.45085930994688, 14.224853868826665?z=23 "    
+    "Mappa":"geo:42.45085930994688, 14.224853868826665?z=15"    
    },
 {  
     "Nome": "Fattoria Galasso",
@@ -53,7 +53,7 @@
                domenica     12:30–15,   chiuso";
     "Info": "Consumazione sul posto · Consegna a domicilio",
     "Telefono":" 333 729 0263",
-    "Mappa":"geo:42.47925850674258, 14.195368239991762?z=23 "
+    "Mappa":"geo:42.47925850674258, 14.195368239991762?z=15"
  },
 {  
     "Nome": "Margherita in centro",
@@ -67,7 +67,7 @@
                domenica   12-23";
     "Info": "Consumazione sul posto · Da asporto · Consegna a domicilio",
     "Telefono":" 085 292 5568",
-    "Mappa":"geo:42.47184366925086, 14.207466361552587?z=23 "
+    "Mappa":"geo:42.47184366925086, 14.207466361552587?z=15"
   },
 {  
     "Nome": "Pesciolillo",
@@ -81,7 +81,7 @@
                domenica   11–00";
     "Info": "Consumazione sul posto · Ritiro all'esterno · Consegna senza contatto",
     "Telefono":" 085 421 1422",
-    "Mappa":"geo:42.46898017496541, 14.207085049040844?z=23 "
+    "Mappa":"geo:42.46898017496541, 14.207085049040844?z=15 "
   },
 {  
     "Nome": "Rostelle & Co. Pescara Centro",
@@ -95,7 +95,7 @@
                domenica   19:30–00";
     "Info": "Consumazione sul posto · Ritiro all'esterno",
     "Telefono":" 320 235 5131",
-    "Mappa":"geo:42.47623013092103, 14.204946564380638?z=23 "
+    "Mappa":"geo:42.47623013092103, 14.204946564380638?z=15"
   },
 {  
     "Nome": "Somari",
@@ -109,6 +109,6 @@
                domenica   19:15–23",
     "Info": "Consumazione sul posto · Da asporto · Consegna a domicilio",
     "Telefono":" 085 863 2656",
-   "Mappa":"geo:42.46857533559889, 14.207668626498927?z=23 "
+   "Mappa":"geo:42.46857533559889, 14.207668626498927?z=15"
   
 }]
